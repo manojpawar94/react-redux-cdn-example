@@ -1,0 +1,19 @@
+html body {
+    padding: 15px;
+}
+
+.MuiFormControl-root {
+    width: 100%;
+    margin-top: 8px !important;
+    margin-bottom: 4px !important;
+}
+
+.MuiButton-root  {
+    margin-top: 8px !important;
+    margin-bottom: 4px !important;
+}
+
+.MuiButton-outlined {
+    padding: 6.5px 15px !important;
+}
+
